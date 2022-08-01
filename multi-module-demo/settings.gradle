@@ -1,0 +1,6 @@
+rootProject.name = 'multi-module-demo'
+include 'common'
+include 'api'
+include 'api'
+include 'web'
+
